@@ -1,21 +1,23 @@
 {
-    "workbench.colorTheme": "Theme Darker",
-    "window.menuBarVisibility": "compact",
-    "window.commandCenter": false,
-    "workbench.layoutControl.enabled": false,
-    "chat.commandCenter.enabled": false,
-    "workbench.editor.enablePreview": false,
-    "workbench.activityBar.location": "bottom",
-    "git.autofetch": true,
-    "python.linting.ruffEnabled": true,
-    "python.linting.provider": "ruff",
-    "python.formatting.provider": "ruff",
-    "[python]": {
-        "editor.formatOnSave": true,
-        "editor.defaultFormatter": "charliermarsh.ruff"
-      },
-    "workbench.statusBar.visible": false,
-    "editor.cursorBlinking": "expand",
-    "editor.cursorSmoothCaretAnimation": "on",
-    "editor.wordWrap": "on"
+  "workbench.colorTheme": "Theme Darker",
+  "window.menuBarVisibility": "compact",
+  "window.commandCenter": false,
+  "workbench.layoutControl.enabled": false,
+  "chat.commandCenter.enabled": false,
+  "workbench.editor.enablePreview": false,
+  "workbench.activityBar.location": "bottom",
+  "git.autofetch": true,
+  "python.linting.ruffEnabled": true,
+  "python.linting.provider": "ruff",
+  "python.formatting.provider": "ruff",
+  "[python]": {
+      "editor.formatOnSave": true,
+      "editor.defaultFormatter": "charliermarsh.ruff"
+    },
+  "editor.cursorBlinking": "expand",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.wordWrap": "on",
+  "editor.minimap.enabled": false,
+  "workbench.statusBar.visible": false,
+  "python.analysis.completeFunctionParens": true
 }
